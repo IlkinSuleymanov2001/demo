@@ -1,0 +1,4 @@
+C:\Users\ilkin\source\repos\WebApi\Businees\obj\Debug\net8.0\Businees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\WebApi\Businees\obj\Debug\net8.0\Businees.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\WebApi\Businees\obj\Debug\net8.0\Businees.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\WebApi\Businees\obj\Debug\net8.0\Businees.csproj.CoreCompileInputs.cache
